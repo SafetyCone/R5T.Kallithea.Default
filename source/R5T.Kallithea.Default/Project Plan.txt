@@ -1,0 +1,4 @@
+R5T.Kallithea.Default - A default implementations library for the Kallithea project.
+
+Goals
+
